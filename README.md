@@ -29,10 +29,6 @@
 
 ## GitHub Stats ⚡
 <div>
-  <a href="https://github.com/paulaharu">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=missharu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
   <center>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=missharu&layout=compact&langs_count=7&theme=dracula"/> 
   </center>
